@@ -1,4 +1,3 @@
-# Superstore-Retail-data-analysis
 
 ## Link to my Tableau Dashboard - [Click here](https://public.tableau.com/app/profile/viradhika/viz/RetailSuperstorePerformanceDashboard/Dashboard1?publish=yes)
 
